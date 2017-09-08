@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Haowen's Homepage"
+title                    : "Haowen Zhang"
 title_separator          : "-"
 name                     : "Haowen Zhang"
 description              : "My personal website."
@@ -79,9 +79,9 @@ analytics:
 author:
   name             : "Haowen Zhang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "CSE PhD@Georgia Tech"
+  bio              : "PhD student at Georgia Institute of Technology"
   location         : "Atlanta"
-  email            :
+  email            : 
   uri              :
   bitbucket        :
   codepen          :
@@ -94,7 +94,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "haowen-zhang-2a8259129/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
@@ -244,3 +244,25 @@ defaults:
       comments: # true
       share: true
       related: true
+defaults:
+  # _portfolio
+     - scope:
+         path: ""
+         type: portfolio
+         values:
+             layout: single
+             author_profile: false
+             share: true
+defaults:
+  # _pages
+    - scope:
+        path: ""
+        type: pages
+        values:
+            layout: single
+            author_profile: true
+
+collections:
+    portfolio:
+        output: true
+        permalink: /:collection/:path/
