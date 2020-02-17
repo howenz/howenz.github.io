@@ -1,9 +1,10 @@
 ---
 title: News
-layout: home
+layout: single
 classes: wide
 permalink: /
 ---
+   [02/2020] Our [preprint](https://www.biorxiv.org/content/10.1101/2020.02.11.943241v1.abstract) on weighted minimzer sampling is available online.  
    [01/2020] We are organizing [HotCSE seminar](http://hotcse.gatech.edu) in spring 2020. Please fill in the [form](https://forms.gle/J8QM9ZdTtyAdDHEB6) if you want to give a talk.  
    [01/2020] An [extension](https://www.liebertpub.com/doi/abs/10.1089/cmb.2019.0066?journalCode=cmb) of our RECOMB 2019 paper is now available at [Journal of Computational Biology](https://home.liebertpub.com/publications/journal-of-computational-biology/31/overview).  
    [12/2019] Back to Atlanta.  
