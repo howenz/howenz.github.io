@@ -3,7 +3,7 @@ permalink: /service/
 classes: wide
 ---
 **Note: I have been serving on the organizing committee of [HotCSE seminar](http://hotcse.gatech.edu) since 2019 spring. We keep looking for speakers at the beginning of every semester. Please fill in the form if you are interested in giving a talk.**
-* [Spring 2020 form](https://forms.gle/J8QM9ZdTtyAdDHEB6) (only a few slots are available)
+* [Spring 2020 form](https://forms.gle/J8QM9ZdTtyAdDHEB6) (no more slots)
 * [Fall 2019 form]() (no more slots)
 * [Spring 2019 form]() (no more slots)
 
