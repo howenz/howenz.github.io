@@ -10,6 +10,6 @@ classes: wide
 
 External reviewer: IEEE/ACM SC 2019, IEEE IPDPS 2018
 
-Journal reviewer: Bioinformatics, Nucleic Acids Research
+Journal reviews: Bioinformatics, Nucleic Acids Research, Journal of Computational Biology, Patterns
 
 PC member: BIOTECHNO 2020
