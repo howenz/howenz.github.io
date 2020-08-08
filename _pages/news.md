@@ -4,6 +4,7 @@ layout: single
 classes: wide
 permalink: /
 ---
+   [08/2020] The [preprint](https://arxiv.org/abs/2008.01237) of [hifiasm](https://github.com/chhylp123/hifiasm) is available online.  
    [05/2020] I will spend my summer in [Liu Lab](https://liulab-dfci.github.io).  
    [04/2020] Our paper on weighted minimzer sampling was accepted by [ISMB 2020](https://www.iscb.org/ismb2020).  
    [02/2020] Our [preprint](https://www.biorxiv.org/content/10.1101/2020.02.11.943241v1.abstract) on weighted minimzer sampling is available online.  
