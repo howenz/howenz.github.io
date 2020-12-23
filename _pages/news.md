@@ -4,7 +4,8 @@ layout: single
 classes: wide
 permalink: /
 ---
-   [11/2020] Our paper on evaluation of long read error correction methods was accepted by [BMC Genomics](https://bmcgenomics.biomedcentral.com).  
+   [12/2020] Hifiasm was accepted by [Nature Methods](https://www.nature.com/nmeth/).  
+   [11/2020] Our paper on evaluating long read error correction methods was accepted by [BMC Genomics](https://bmcgenomics.biomedcentral.com).  
    [08/2020] The [preprint](https://arxiv.org/abs/2008.01237) of [hifiasm](https://github.com/chhylp123/hifiasm) is available online.  
    [05/2020] I will spend my summer in [Liu Lab](https://liulab-dfci.github.io).  
    [04/2020] Our paper on weighted minimzer sampling was accepted by [ISMB 2020](https://www.iscb.org/ismb2020).  
