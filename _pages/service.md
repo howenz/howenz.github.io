@@ -11,6 +11,6 @@ classes: wide
 
 Reviewer: ISMB 2021, IEEE/ACM SC 2019, IEEE IPDPS 2018
 
-Journal reviews: Briefings in Bioinformatics, Bioinformatics, Nucleic Acids Research, Journal of Computational Biology, PeerJ, Patterns
+Journal reviews: Briefings in Bioinformatics, Bioinformatics, Nucleic Acids Research, Scientific Reports, Journal of Computational Biology, PeerJ, Patterns
 
 PC member: BIOTECHNO 2020, 2021
