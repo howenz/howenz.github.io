@@ -4,6 +4,8 @@ layout: single
 classes: wide
 permalink: /
 ---
+   [04/2021] Our paper on mapping nanopore raw signals was accepted by [ISMB/ECCB 2021](https://www.iscb.org/ismbeccb2021).  
+   [03/2021] I will join Google for a summer internship.  
    [12/2020] Hifiasm was accepted by [Nature Methods](https://www.nature.com/nmeth/).  
    [11/2020] Our paper on evaluating long read error correction methods was accepted by [BMC Genomics](https://bmcgenomics.biomedcentral.com).  
    [08/2020] The [preprint](https://arxiv.org/abs/2008.01237) of [hifiasm](https://github.com/chhylp123/hifiasm) is available online.  
