@@ -4,6 +4,7 @@ layout: single
 classes: wide
 permalink: /
 ---
+   [07/2021] I gave a talk on mapping nanopore raw signal in real time at [ISMB/ECCB 2021](https://www.iscb.org/ismbeccb2021).  
    [06/2021] I received registration fellowship from [ISMB/ECCB 2021](https://www.iscb.org/ismbeccb2021).  
    [04/2021] Our paper on mapping nanopore raw signals was accepted by [ISMB/ECCB 2021](https://www.iscb.org/ismbeccb2021).  
    [03/2021] I will join Google for a summer internship.  
