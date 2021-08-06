@@ -4,6 +4,7 @@ layout: single
 classes: wide
 permalink: /
 ---
+   [08/2021] I received [JXTX Foundation Scholarship](https://jxtxfoundation.org/scholarships/2021-genome-informatics/) to participate in the [2021 Genome Informatics Conference](https://meetings.cshl.edu/abstracts.aspx?meet=info&year=21).  
    [07/2021] I gave a talk on mapping nanopore raw signal in real time at [ISMB/ECCB 2021](https://www.iscb.org/ismbeccb2021).  
    [06/2021] I received registration fellowship from [ISMB/ECCB 2021](https://www.iscb.org/ismbeccb2021).  
    [04/2021] Our paper on mapping nanopore raw signals was accepted by [ISMB/ECCB 2021](https://www.iscb.org/ismbeccb2021).  
