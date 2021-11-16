@@ -4,6 +4,7 @@ layout: single
 classes: wide
 permalink: /
 ---
+   [11/2021] Our paper on [Chromap](https://github.com/haowenz/chromap) was published on [Nature Communications](https://www.nature.com/articles/s41467-021-26865-w).  
    [08/2021] I received [JXTX Foundation Scholarship](https://jxtxfoundation.org/scholarships/2021-genome-informatics/) to participate in the [2021 Genome Informatics Conference](https://meetings.cshl.edu/abstracts.aspx?meet=info&year=21).  
    [07/2021] I gave a talk on mapping nanopore raw signal in real time at [ISMB/ECCB 2021](https://www.iscb.org/ismbeccb2021).  
    [06/2021] I received registration fellowship from [ISMB/ECCB 2021](https://www.iscb.org/ismbeccb2021).  
