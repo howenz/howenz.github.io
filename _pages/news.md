@@ -4,6 +4,7 @@ layout: single
 classes: wide
 permalink: /
 ---
+   [06/2022] The [preprint](https://arxiv.org/abs/2206.13574) of [Gwfa](https://github.com/lh3/gwfa) is available online.  
    [02/2022] I passed my dissertation proposal defense.  
    [11/2021] Our paper on [Chromap](https://github.com/haowenz/chromap) was published on [Nature Communications](https://www.nature.com/articles/s41467-021-26865-w).  
    [08/2021] I received [JXTX Foundation Scholarship](https://jxtxfoundation.org/scholarships/2021-genome-informatics/) to participate in the [2021 Genome Informatics Conference](https://meetings.cshl.edu/abstracts.aspx?meet=info&year=21).  
