@@ -8,9 +8,9 @@ main:
     url: /
   - title: "Posts"
     url: /year-archive/
-  - title: "About me"
+  - title: "About"
     url: /about/
-  - title: "Service"
-    url: /service/
+      #- title: "Service"
+      #  url: /service/
     #- title: "CV"
     #  url: /CV.pdf
