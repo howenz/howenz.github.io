@@ -4,6 +4,7 @@ layout: single
 classes: wide
 permalink: /
 ---
+   [07/2022] A [post](/Graph-wavefront-algorithm) with slides and a video tutorial to explain the Gwfa algorithm is available.  
    [06/2022] I passed my dissertation defense.  
    [06/2022] The [preprint](https://arxiv.org/abs/2206.13574) of [Gwfa](https://github.com/lh3/gwfa) is available online.  
    [02/2022] I passed my dissertation proposal defense.  
