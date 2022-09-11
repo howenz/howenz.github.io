@@ -7,7 +7,7 @@ I do many things outside work.
 
 ### Travel
 
-I never stop exploring. The map shows an incomplete list of places where I have visited in North America. The list includes 15 national parks in the US and keeps growing. I enjoy hiking, camping, beaches, museums, big cities, small villages, almost everything that is a new experience to me.
+I never stop exploring. The map shows an incomplete list of places where I have visited in North America. The list includes 18 national parks in the US and keeps growing. I enjoy hiking, camping, beaches, museums, big cities, small villages, almost everything that is a new experience to me.
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1NUynDFsjAuYzBfa6KmcNsrnMd3sfKvc&ehbc=2E312F" width="640" height="480"></iframe>
 
