@@ -10,8 +10,8 @@ main:
     url: /year-archive/
   - title: "About"
     url: /about/
-  - title: "Misc"
-    url: /misc/
+      #- title: "Misc"
+      #  url: /misc/
       #- title: "Service"
       #  url: /service/
     #- title: "CV"
