@@ -9,7 +9,7 @@ I earned my PhD in [Computatioal Science and Engineering](https://www.cse.gatech
 
 I am a frequent reviewer for the journals and conferences as follows.
 
- - Journal reviews: Briefings in Bioinformatics, Bioinformatics, PLOS Computational Biology, Nucleic Acids Research, Scientific Reports, Genomics, Proteomics & Bioinformatics (GPB), BMC Biology, BMC Genomics, GigaScience, Journal of Integrative Bioinformatics, Journal of Computational Biology, PeerJ, Patterns (Cell Press)
+ - Journal reviews: Briefings in Bioinformatics, Genome Research, Bioinformatics, PLOS Computational Biology, Nucleic Acids Research, Scientific Reports, Genomics, Proteomics & Bioinformatics (GPB), BMC Biology, BMC Genomics, GigaScience, Journal of Integrative Bioinformatics, Journal of Computational Biology, PeerJ, Patterns (Cell Press)
 
  - Conference reviewer: RECOMB 2023, ISMB/ECCB 2021, 2022, IEEE/ACM SC 2019, IEEE IPDPS 2018
 
