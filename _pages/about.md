@@ -11,7 +11,7 @@ I am a frequent reviewer for the journals and conferences as follows.
 
  - Journal reviews: Briefings in Bioinformatics, Genome Research, Bioinformatics, PLOS Computational Biology, Nucleic Acids Research, Scientific Reports, Genomics, Proteomics & Bioinformatics (GPB), BMC Biology, BMC Genomics, GigaScience, Journal of Integrative Bioinformatics, Journal of Computational Biology, PeerJ, Patterns (Cell Press)
 
- - Conference reviewer: RECOMB 2023, ISMB/ECCB 2021, 2022, IEEE/ACM SC 2019, IEEE IPDPS 2018
+ - Conference reviewer: RECOMB 2023, 2024, ISMB/ECCB 2021, 2022, 2023, IEEE/ACM SC 2019, IEEE IPDPS 2018
 
  - PC member: BIOTECHNO 2020, 2021, 2022, 2023
 
